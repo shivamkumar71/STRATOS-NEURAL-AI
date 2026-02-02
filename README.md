@@ -7,7 +7,7 @@
   ![License](https://img.shields.io/badge/license-MIT-green)
   
   <!-- Optional: Add a live demo link if available -->
-  <!-- ### 🚀 [Live Demo](https://stratosneuralai.vercel.app/) -->
+### 🚀 [Live Demo](https://stratos-neural-ai.vercel.app/) 
 </div>
 
 ---
