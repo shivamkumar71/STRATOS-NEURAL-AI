@@ -12,6 +12,11 @@
 
 ---
 
+
+> **⚠️ Project Status: In Development**
+>
+> This is not a complete project yet. STRATOS NEURAL AI is under active development and improvement. Features, functionality, and documentation are evolving rapidly. Stay tuned for updates and new releases!
+
 ## 📋 Overview
 
 **STRATOS NEURAL AI** is a next-generation AI platform transforming how sports teams, coaches, and organizations strategize, analyze, and win. By harnessing advanced machine learning and real-time analytics, STRATOS NEURAL AI delivers actionable insights, predictive simulations, and intelligent recommendations—empowering teams to reach peak performance.
